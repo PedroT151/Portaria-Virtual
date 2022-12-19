@@ -38,7 +38,41 @@ var users = [
         username: "nikolatesla",
         password: "admin",
         id: 7
-    }
+    },
+    {
+        username: "andré",
+        password: "admin",
+        id: 8
+    },
+    {
+        username: "calebe",
+        password: "admin",
+        id: 9
+    },
+    {
+        username: "joão",
+        password: "admin",
+        id: 10
+    },
+    {
+        username: "douglas",
+        password: "admin",
+        id: 11
+    },
+    {
+        username: "jonatas",
+        password: "admin",
+        id: 12
+    },
+    {
+        username: "kelvin",
+        password: "admin",
+        id: 14
+    },
+
+
+
+
 ]
 var current = new Date();
 var current_id
